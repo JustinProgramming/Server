@@ -1,3 +1,8 @@
 C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.Properties.Resources.resources
 C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\Client.exe.config
+C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\Client.exe
+C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\Client.pdb
+C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.exe
+C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.pdb
