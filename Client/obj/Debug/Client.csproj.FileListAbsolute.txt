@@ -1,0 +1,3 @@
+C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache

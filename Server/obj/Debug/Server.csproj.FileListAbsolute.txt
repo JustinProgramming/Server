@@ -1,0 +1,4 @@
+C:\Users\School\Documents\GitHub\Server\Server\bin\Debug\Server.exe.config
+C:\Users\School\Documents\GitHub\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\School\Documents\GitHub\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\School\Documents\GitHub\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
