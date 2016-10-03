@@ -6,3 +6,6 @@ C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\Client.exe
 C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\Client.pdb
 C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.exe
 C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.pdb
+C:\Users\School\Documents\GitHub\Server\Client\obj\Debug\Client.Forms.MainForm.resources
+C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\EasySockets.dll
+C:\Users\School\Documents\GitHub\Server\Client\bin\Debug\EasySockets.pdb
